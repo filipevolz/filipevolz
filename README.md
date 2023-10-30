@@ -7,9 +7,11 @@ Graduando em Análise e Desenvolvimento de Sistemas, trabalho como Técnico de D
 Consolidando conhecimento em cursos como:
 ✓ DevQuest - Full Stack
 ✓ Cursoemvideo
-✓ Eventos da Rocketseat
+✓ The Complete 2023 Web Development Bootcamp - Udemy
 
 Experiência com:
 ✓ HTML
 ✓ CSS
-✓ PYTHON
+✓ JAVASCRIPT
+✓ BOOTSTRAP
+✓ REACT
