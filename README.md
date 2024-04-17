@@ -1,17 +1,7 @@
 ## Bem-vindo(a) ao perfil do Filipe Volz 😁
 
-Carreira desenvolvida na área técnica de eletrecidade e efetuando migração para área de Desenvolvimento Web. 
+🚀 Em transição para o desenvolvimento web! 🌐💻
 
-Graduando em Análise e Desenvolvimento de Sistemas, trabalho como Técnico de Distribuição Junior no Grupo Equatorial.
+Com uma sólida carreira na área técnica da eletricidade, estou trilhando um novo caminho rumo ao desenvolvimento web. Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas, consolidando meu conhecimento por meio de cursos e projetos práticos.
 
-Consolidando conhecimento em cursos como:
-✓ DevQuest - Full Stack
-✓ Cursoemvideo
-✓ The Complete 2023 Web Development Bootcamp - Udemy
-
-Experiência com:
-✓ HTML
-✓ CSS
-✓ JAVASCRIPT
-✓ BOOTSTRAP
-✓ REACT
+Meu interesse pelo desenvolvimento web foi impulsionado pela oportunidade de criar soluções digitais inovadoras. Estou comprometido em aprimorar minhas habilidades e expandir meu conhecimento em tecnologias como JAVASCRIPT, HTML, CSS, REACT, TYPESCRIPT, JEST, APIs, JQUERY e Git.
